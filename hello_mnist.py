@@ -98,7 +98,6 @@ print(y[someIdx])
 print(y[yetAnotherIdx])
 print("SOME PARTITION")
 print(clf.predict(X_somePartition))
-print("YOUR BULLCRAP")
 print(clf.predict(myArray))
 """
 
